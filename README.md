@@ -1,25 +1,23 @@
 # Hi, my name is [Kaloyan Dimov](https://github.com/kvatev98/)👋
 <hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <img align="right" height="250" width="375" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 ## Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++ .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kvatev98?tab=repositories).
-- 👾 &nbsp; Fun fact: 
+- 👾 &nbsp; Fun fact: I like making games.
 - 📫 &nbsp; How to reach me: KHDimov20@codingburgas.bg
 
 <hr>
 
 ### Connect with me:
 
-<a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
-<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href ="https://www.youtube.com/" ><img align="left" alt="fb" width="22px" src="https://www.pngrepo.com/png/183606/512/youtube.png" /><a/>
+<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
 <br>
 <hr>
 
@@ -37,7 +35,7 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-![Grade](https://github-readme-stats.vercel.app/api?username=kvatev&show_icons=true&theme=radical&count_private=true)
+![Grade](https://github-readme-stats.vercel.app/api?username=KHDimov20&show_icons=true&theme=radical&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvatev&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
@@ -49,10 +47,10 @@
 <details>
   <summary><b>🧑‍🚀 Repositories</b></summary>
 
-[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
-[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
-</details>
+[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=KHDimov20&repo=KHDimov20)](https://github.com)
 
+</details>
+  
 <details style = "display: inline;">
   <summary><b>📚 Badges</b></summary>
 
@@ -64,6 +62,6 @@
   <hr>
 <div align="center">
 
-# Focus on yourself not others!
+# Have a nice day!
 
 </div>
