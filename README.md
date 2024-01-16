@@ -3,9 +3,9 @@
 
 <img align="right" height="250" width="375" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-## Talking about Personal Stuffs:
+## Talking about Personal Stuff:
 
-- 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++ .
+- 🚀 &nbsp; I’m currently learning C++, C#, Python and SQL.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kvatev98?tab=repositories).
 - 👾 &nbsp; Fun fact: I like making games.
 - 📫 &nbsp; How to reach me: KHDimov20@codingburgas.bg
@@ -26,6 +26,10 @@
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
+<code><img  alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" ></code>
+<code><img  alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png" ></code>
+<code><img  alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" ></code>
+<code><img  alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" ></code>
 
 <hr>
   
