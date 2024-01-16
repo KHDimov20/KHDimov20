@@ -17,7 +17,6 @@
 <a href ="https://www.youtube.com/" ><img align="left" alt="fb" width="22px" src="https://www.pngrepo.com/png/183606/512/youtube.png" /><a/>
 <img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />
 <br>
 <hr>
 
